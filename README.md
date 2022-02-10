@@ -18,7 +18,7 @@
     👨🏻‍💻 I'm learning Full-stack Web Development at <a style="font-style:italic;text-decoration: none;" target="_blank" href="https://www.masaischool.com/">Masaischool</a>
   </p>
   <p>
-    💌 Reach out to me at <a style="font-style:italic;text-decoration: none;" target="_blank" href="sarathg.in@gmail.com">sarathg.in@gmail.com</a>
+    💌 Reach out to me at <a style="font-style:italic;text-decoration: none;" target="_blank" href="mailto:sarathg.in@gmail.com">sarathg.in@gmail.com</a>
   </p>
   <p>
     👨🏻‍🎓 Checkout My Resume at <a style="font-style:italic;text-decoration: none;" href="https://drive.google.com/file/d/1v7ueHIdqoxfJSETYNBa7s3VROrrupKph/view?usp=sharing" target="_blank">Sarath-Resume</a>
