@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/insarathg" target="blank"><img src="https://img.shields.io/twitter/follow/insarathg?logo=twitter&style=for-the-badge" alt="insarathg" /></a> </p>
 
-<p style='type:circle'> 🌱 I’m currently learning Full-stack Web Development </p>
+<p type='circle'> 🌱 I’m currently learning Full-stack Web Development </p>
 
 > 👨‍💻 All of my projects are available at [https://github.com/Sarath-194/Sarath-194/edit/main/README.md](https://github.com/Sarath-194/Sarath-194/edit/main/README.md)
 
