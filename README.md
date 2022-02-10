@@ -5,17 +5,18 @@
 
 <p align="left"> <a href="https://twitter.com/insarathg" target="blank"><img src="https://img.shields.io/twitter/follow/insarathg?logo=twitter&style=for-the-badge" alt="insarathg" /></a> </p>
 
-> 🌱 I’m currently learning Full-stack Web Development at <p style="font:italic"> <a src="https://www.masaischool.com/"> Masai School</a> </p>
+<p> 🌱 I’m currently learning Full-stack Web Development at </p>
+<!-- <p style="font:italic"> <a src="https://www.masaischool.com/"> Masai School</a> </p> -->
 
-> 👨‍💻 All of my projects are available at [https://github.com/Sarath-194/Sarath-194/edit/main/README.md](https://github.com/Sarath-194/Sarath-194/edit/main/README.md)
+<p> 👨‍💻 All of my projects are available at [https://github.com/Sarath-194/Sarath-194/edit/main/README.md](https://github.com/Sarath-194/Sarath-194/edit/main/README.md)
 
-> 📝 I regularly write articles on [https://medium.com/@sarathg.in](https://medium.com/@sarathg.in)
+<p> 📝 I regularly write articles on [https://medium.com/@sarathg.in](https://medium.com/@sarathg.in) </P>
 
-> 💬 Ask me about **HTML, CSS, AdvancdJS, Node.js, Express, Mongoose, and React.**
+<p> 💬 Ask me about **HTML, CSS, AdvancdJS, Node.js, Express, Mongoose, and React.**</p>
 
-> 📫 How to reach me **sarathg.in@gmail.com**
+<p> 📫 How to reach me **sarathg.in@gmail.com**</p>
 
-> 📄 Know about my experiences [https://drive.google.com/file/d/1v7ueHIdqoxfJSETYNBa7s3VROrrupKph/view?usp=sharing](https://drive.google.com/file/d/1v7ueHIdqoxfJSETYNBa7s3VROrrupKph/view?usp=sharing)
+<p> 📄 Know about my experiences [https://drive.google.com/file/d/1v7ueHIdqoxfJSETYNBa7s3VROrrupKph/view?usp=sharing](https://drive.google.com/file/d/1v7ueHIdqoxfJSETYNBa7s3VROrrupKph/view?usp=sharing) </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
