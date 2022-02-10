@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/insarathg" target="blank"><img src="https://img.shields.io/twitter/follow/insarathg?logo=twitter&style=for-the-badge" alt="insarathg" /></a> </p>
 
-- 🌱 I’m currently learning **Full-stack Web Development, DSA**
+> 🌱 I’m currently learning **Full-stack Web Development, DSA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sarath-194/Sarath-194/edit/main/README.md](https://github.com/Sarath-194/Sarath-194/edit/main/README.md)
+> 👨‍💻 All of my projects are available at [https://github.com/Sarath-194/Sarath-194/edit/main/README.md](https://github.com/Sarath-194/Sarath-194/edit/main/README.md)
 
-- 📝 I regularly write articles on [https://medium.com/@sarathg.in](https://medium.com/@sarathg.in)
+> 📝 I regularly write articles on [https://medium.com/@sarathg.in](https://medium.com/@sarathg.in)
 
-- 💬 Ask me about **HTML, CSS, AdvancdJS, Node.js, Express, Mongoose, and React.**
+> 💬 Ask me about **HTML, CSS, AdvancdJS, Node.js, Express, Mongoose, and React.**
 
-- 📫 How to reach me **sarathg.in@gmail.com**
+> 📫 How to reach me **sarathg.in@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v7ueHIdqoxfJSETYNBa7s3VROrrupKph/view?usp=sharing](https://drive.google.com/file/d/1v7ueHIdqoxfJSETYNBa7s3VROrrupKph/view?usp=sharing)
+> 📄 Know about my experiences [https://drive.google.com/file/d/1v7ueHIdqoxfJSETYNBa7s3VROrrupKph/view?usp=sharing](https://drive.google.com/file/d/1v7ueHIdqoxfJSETYNBa7s3VROrrupKph/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
