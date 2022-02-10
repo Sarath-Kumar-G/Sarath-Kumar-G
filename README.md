@@ -21,7 +21,7 @@
     💌 Reach out to me at <a style="font-style:italic;text-decoration: none;" target="_blank" href="sarathg.in@gmail.com">sarathg.in@gmail.com</a>
   </p>
   <p>
-    👨🏻‍🎓 Checkout My Resume here <a style="font-style:italic;text-decoration: none;" href="https://drive.google.com/file/d/1v7ueHIdqoxfJSETYNBa7s3VROrrupKph/view?usp=sharing" target="_blank">Resume</a>
+    👨🏻‍🎓 Checkout My Resume at <a style="font-style:italic;text-decoration: none;" href="https://drive.google.com/file/d/1v7ueHIdqoxfJSETYNBa7s3VROrrupKph/view?usp=sharing" target="_blank">Sarath-Resume</a>
   </p>
   <p>
     ⚙️ Tech stack : HTML, CSS, Advanced JS, Node.js, Express, Mongoose, and React.
