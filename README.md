@@ -80,11 +80,11 @@
     <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarath-194&show_icons=true&locale=en&layout=compact" alt="sarath-194"/>
   </p>
-  <p> &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sarath-194&show_icons=true&locale=en" alt="sarath-194" />
+  <p> &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sarath-194&show_icons=true&locale=en" alt="sarath-194" />
   </p>
 
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-194&" alt="sarath-194" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-194&" alt="sarath-194" />
   </p>
 </p>
   
