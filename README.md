@@ -36,14 +36,19 @@
     ⚙️ Technical SKills : HTML, CSS, Advanced JS, Node.js, Express, Mongoose, and React.
   </p>
   <hr/>
-  
-  
-  
-  
-  
 
-  
-  <h3 style="text-align:left;">Connect with me:</h3>
+</body>
+</html>
+
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
+
+<h3 style="text-align:left;">Connect with me:</h3>
   
     <p align="left">
     
@@ -123,14 +128,6 @@
   <p>
     <img style="text-align:center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-194&" alt="sarath-194" />
   </p>
-
-</body>
-</html>
-
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
 
