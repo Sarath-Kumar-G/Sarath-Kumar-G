@@ -4,13 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    #connect {
-      width:15%;
-      display: flex;
-      justify-content: space-between;
-    }
-  </style>
+  
 </head>
 <body>
   <h1 style="text-align:center">Hi There👋, I'm Sarath G</h1>
@@ -44,8 +38,6 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-
 
 
 <h3 align="left">Connect with me:</h3>
