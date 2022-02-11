@@ -26,7 +26,7 @@
   <p>
     ⚙️ Technical SKills : HTML, CSS, Advanced JS, Node.js, Express, Mongoose, and React.
   </p>
-  <hr style="height:1px"/>
+  <hr/>
   
   
   
@@ -34,7 +34,7 @@
   
 
   
-  <h3 align="left">Connect with me:</h3>
+  <h3 style="text-align:left;">Connect with me:</h3>
   <p style="display:felx; justify-content:space-between">
     
     <a href="https://twitter.com/insarathg" target="blank" >
@@ -49,6 +49,7 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sarathg.in" height="30" width="40" />
     </a>
   </p>
+  <hr/>
 
   <h3 align="left" >Languages and Tools:</h3>
   
