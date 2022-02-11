@@ -9,7 +9,7 @@
 <body>
   <h1 align="center">Hi There👋, I'm Sarath G</h1>
   <h3 align="center">Full-stack Web Developer | MERN Stack</h3>
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=383228249544685305" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwfYS5kWSKRDNdw_55qIctphbrMxMNEzDIEQ&usqp=CAU" />
   
   <p style="text-align:left"> <img src="https://komarev.com/ghpvc/?username=sarath-194&label=Profile%20views&color=0e75b6&style=flat" alt="sarath-194" /> </p>
   
