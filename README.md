@@ -7,35 +7,31 @@
   <title>Git hub</title>
 </head>
 <body>
-  <h1 align="center">Hi 👋, I'm Sarath G</h1>
-  <h3 align="center">Full-stack Web Developer</h3>
+  <h1 align="center">Hi There👋, I'm Sarath G</h1>
+  <h3 align="center">Full-stack Web Developer | MERN Stack</h3>
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarath-194&label=Profile%20views&color=0e75b6&style=flat" alt="sarath-194" /> </p>
   
   <p align="left"> <a href="https://twitter.com/insarathg" target="blank"><img src="https://img.shields.io/twitter/follow/insarathg?logo=twitter&style=for-the-badge" alt="insarathg" /></a> </p>
+  <hr/>
   
   <p>
-    👨🏻‍💻 I'm learning Full-stack Web Development at <a style="font-style:italic;text-decoration: none;" target="_blank" href="https://www.masaischool.com/">Masaischool</a>
+    👨🏻‍💻 learning Full-stack Web Development at <a style="font-style:italic;text-decoration: none;" target="_blank" href="https://www.masaischool.com/">Masaischool</a>
   </p>
   <p>
-    💌 Reach out to me at <a style="font-style:italic;text-decoration: none;" target="_blank" href="mailto:sarathg.in@gmail.com">sarathg.in@gmail.com</a>
+    💌 Feel free to drop a Mail at <a style="font-style:italic;text-decoration: none;" target="_blank" href="mailto:sarathg.in@gmail.com">sarathg.in@gmail.com</a>
   </p>
   <p>
     👨🏻‍🎓 Checkout My Resume at <a style="font-style:italic;text-decoration: none;" href="https://drive.google.com/file/d/1v7ueHIdqoxfJSETYNBa7s3VROrrupKph/view?usp=sharing" target="_blank">Sarath-Resume</a>
   </p>
   <p>
-    ⚙️ Tech stack : HTML, CSS, Advanced JS, Node.js, Express, Mongoose, and React.
+    ⚙️ Technical SKills : HTML, CSS, Advanced JS, Node.js, Express, Mongoose, and React.
   </p>
   
-</body>
-</html>
-
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
+  
+  
+  
+  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/insarathg" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="insarathg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sarath-g-98117a214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarath-g-98117a214/" height="30" width="40" /></a>
@@ -51,5 +47,15 @@
 <br/></p>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-194&" alt="sarath-194" /></p>
+  
+</body>
+</html>
+
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 
 
