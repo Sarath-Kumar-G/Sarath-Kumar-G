@@ -84,8 +84,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarath-194&show_icons=true&locale=en&layout=compact" alt="sarath-194" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarath-194&show_icons=true&locale=en" alt="sarath-194" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarath-194&show_icons=true&locale=en" alt="sarath-194" />
 </p>
 
 <p>
