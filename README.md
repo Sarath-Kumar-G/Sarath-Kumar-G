@@ -9,6 +9,7 @@
 <body>
   <h1 align="center">Hi There👋, I'm Sarath G</h1>
   <h3 align="center">Full-stack Web Developer | MERN Stack</h3>
+  <hr/>
 <img src="https://raw.githubusercontent.com/Renukote/Renukote/051cadb27789caa9a268427a07ad8d9e3b6c7cec/web-developer-img.svg" width='30%' height="40%" align='right'/>
   
   <p style="text-align:left"> <img src="https://komarev.com/ghpvc/?username=sarath-194&label=Profile%20views&color=0e75b6&style=flat" alt="sarath-194" /> </p>
