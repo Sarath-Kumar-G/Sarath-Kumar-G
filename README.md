@@ -7,10 +7,10 @@
   
 </head>
 <body>
-  <h1 style="text-align:center">Hi There👋, I'm Sarath G</h1>
-  <h3 style="text-align:center">Full-stack Web Developer | MERN Stack</h3>
+  <h1 align="center">Hi There👋, I'm Sarath G</h1>
+  <h3 align="center">Full-stack Web Developer | MERN Stack</h3>
 
-  <img src="https://png.pngtree.com/png-vector/20190726/ourmid/pngtree-blue-line-cloud-data-computer-png-image_1606710.jpg" alt="">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfVwhKJesh2Ng67qArFITbMbYnWAepmHFgyQ&usqp=CAU" alt="">
   
   <p style="text-align:left"> <img src="https://komarev.com/ghpvc/?username=sarath-194&label=Profile%20views&color=0e75b6&style=flat" alt="sarath-194" /> </p>
   
