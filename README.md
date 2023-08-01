@@ -26,7 +26,7 @@
     👨🏻‍🎓 Checkout My Resume at <a style="font-style:italic;text-decoration: none;" href="https://drive.google.com/file/d/1v7ueHIdqoxfJSETYNBa7s3VROrrupKph/view?usp=sharing" target="_blank">Sarath-Resume</a>
   </p>
   <p>
-    ⚙️ Technical Skills : HTML, CSS, Advanced JS, Node.js, Express, Mongoose, and React.
+    ⚙️ Technical Skills: React, Next.js, Jest.js, Angular, HTML, CSS, Advanced JS, Node.js, Express, and Mongoose.
   </p>
   <hr/>
 
@@ -75,20 +75,5 @@
     <img align="center" margin="10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
   </p>
-  
-  <p>
-    
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=sarath-194&show_icons=false&locale=en" alt="sarath-194" />
-  </p>
-<!--   <br/> -->
-  <p>
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-194&" alt="sarath-194" />
-  </p>
-  <br/>
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarath-194&show_icons=true&locale=en&layout=compact" alt="sarath-194"/>
-  </p>
-  <br/>
 </p>
   
