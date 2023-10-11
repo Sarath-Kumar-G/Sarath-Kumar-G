@@ -16,7 +16,7 @@
     👨🏻‍💻 Front-end Engineer at Codewalnut at <a style="font-style:italic; font-weight-700";text-decoration: none;" target="_blank" href="https://www.codewalnut.com/">Codewalnut</a>
   </p>
   <p>
-    💌 Feel free to drop me Mail at <a style="font-style:italic;text-decoration: none;" target="_blank" href="mailto:sarathg.in@gmail.com">sarathg.in@gmail.com</a>
+    💌 Feel free to drop me Mail at <a style="font-style:italic;text-decoration: none;" target="_blank" href="mailto:sarathkumarg.in@gmail.com">sarathkumarg.in@gmail.com</a>
   </p>
   <p>
     👨🏻‍🎓 Checkout My Resume at <a style="font-style:italic;text-decoration: none;" href="https://drive.google.com/file/d/1v7ueHIdqoxfJSETYNBa7s3VROrrupKph/view?usp=sharing" target="_blank">Sarath-Resume</a>
