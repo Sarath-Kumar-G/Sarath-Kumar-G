@@ -24,7 +24,6 @@
   <p>
     ⚙️ Technical Skills: React.js, Next.js, Tailwind, Jest.js, Angular, HTML, CSS, Advanced JavaScript, Node.js, Express, and Mongoose.
   </p>
-  <hr/>
 
 </body>
 </html>
