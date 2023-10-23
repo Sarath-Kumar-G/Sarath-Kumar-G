@@ -22,7 +22,7 @@
     👨🏻‍🎓 Checkout My Resume at <a style="font-style:italic;text-decoration: none;" href="https://drive.google.com/file/d/1v7ueHIdqoxfJSETYNBa7s3VROrrupKph/view?usp=sharing" target="_blank">Sarath-Resume</a>
   </p> -->
   <p>
-    ⚙️ Technical Skills: React.js, Next.js, Tailwind, Jest.js, Angular, HTML, Content Management System(StoryBlok), CSS, Advanced JavaScript, Node.js, Express, and Mongoose.
+    ⚙️ Technical Skills: React.js, Next.js, Advanced JavaScript, TailwindCSS, Jest.js, Angular, HTML, Content Management System(StoryBlok), CSS, Node.js, Express, and Mongoose.
   </p>
 
 </body>
