@@ -22,7 +22,7 @@
     🧑‍💼 Connect for a discussion at Linkedin <a style="font-style:italic; font-weight-700";text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/sarath-g-98117a214/">Sarath G</a>
   </p>
   <p>
-    🤝 Git collaborations at <a style="font-style:italic; font-weight:700";text-decoration: none;" href="#">sarathkumarg.in@gmail(Sarath-194)</a>
+    🤝 Git collaborations at <a style="font-style:italic; font-weight:700";text-decoration: none;" href="#">sarathkumarg.in@gmail (Sarath-194)</a>
   </p>
   <p>
     ⚙️ Technical Skills: React.js | Next.js | Advanced JavaScript | TailwindCSS | Jest.js | Angular | HTML | Content Management System(StoryBlok) | CSS | Node.js | Express | Mongoose | and other AI tools
