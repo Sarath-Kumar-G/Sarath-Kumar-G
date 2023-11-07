@@ -7,8 +7,7 @@
   
 </head>
 <body>
-  <h1 align="center">Hi There👋, I'm Sarath G</h1>
-  <h4 align="center">Full-stack Web Developer | MERN Stack</h4>
+  <h5 align="center">Full-stack Web Developer | MERN Stack</h5>
   <p style="text-align:left"> <a href="https://twitter.com/insarathg" target="blank"><img src="https://img.shields.io/twitter/follow/insarathg?logo=twitter&style=for-the-badge" alt="insarathg" /></a> </p>
   <hr/>
   
@@ -19,7 +18,7 @@
     💌 Feel free to drop me an email at <a style="font-style:italic;text-decoration: none;" target="_blank" href="mailto:sarathkumarg.in@gmail.com">sarathkumarg.in@gmail.com</a>
   </p>
   <p>
-    🧑‍💼 Connect for a discussion at Linkedin <a style="font-style:italic; font-weight-700";text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/sarath-g-98117a214/">Sarath G</a>
+    👋🧑‍💼 Connect for a discussion at Linkedin <a style="font-style:italic; font-weight-700";text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/sarath-g-98117a214/">Sarath G</a>
   </p>
   <p>
     🤝 Git collaborations at <a style="font-style:italic; font-weight:700";text-decoration: none;" href="#">sarathkumarg.in@gmail (Sarath-194)</a>
