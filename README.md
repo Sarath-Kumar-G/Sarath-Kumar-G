@@ -13,7 +13,7 @@
     💌 Feel free to drop me an email at <a style="font-style:italic;text-decoration: none;" target="_blank" href="mailto:sarathkumarg.in@gmail.com">sarathkumarg.in@gmail.com</a>
   </p>
   <p>
-    👋🧑‍💼 Connect for a discussion at Linkedin <a style="font-style:italic; font-weight-700";text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/sarath-g-98117a214/">Sarath G</a>
+    👋🧑‍💼 Connect for a discussion at Linkedin <a style="font-style:italic; font-weight-700";text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/sarath-g-sde/">Sarath G</a>
   </p>
   <p>
     🤝 Git collaborations at <a style="font-style:italic; font-weight:700";text-decoration: none;" href="#">sarathkumarg.in@gmail (Sarath-194)</a>
