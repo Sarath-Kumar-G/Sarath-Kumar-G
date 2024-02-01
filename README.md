@@ -6,9 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body> 
-<!--   <p>
-    👨🏻‍💻 Front-end Engineer at <a style="font-style:italic; font-weight-700";text-decoration: none;" target="_blank" href="https://www.codewalnut.com/">Codewalnut</a>
-  </p> -->
   <p>
     💌 Feel free to drop me an email at <a style="font-style:italic;text-decoration: none;" target="_blank" href="mailto:sarathkumarg.in@gmail.com">sarathkumarg.in@gmail.com</a>
   </p>
@@ -16,7 +13,7 @@
     👋🧑‍💼 Connect for a discussion at Linkedin <a style="font-style:italic; font-weight-700";text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/sarath-g-sde/">Sarath G</a>
   </p>
   <p>
-    🤝 Git collaborations at <a style="font-style:italic; font-weight:700";text-decoration: none;" href="#">sarathkumarg.in@gmail (Sarath-194)</a>
+    🤝 Git collaborations at <a style="font-style:italic; font-weight:700";text-decoration: none;" href="#">sarathkumarg.in@gmail (Sarath-Kumar-G)</a>
   </p>
   <p>
     ⚙️ Technical Skills: React.js | Next.js | Advanced JavaScript | TailwindCSS | Jest.js | Angular | HTML | Content Management System(StoryBlok) | CSS | Node.js | Express | Mongoose | and other AI tools
