@@ -16,7 +16,7 @@
     🤝 Git collaborations at <a style="font-style:italic; font-weight:700";text-decoration: none;" href="#">Sarath-Kumar-G</a>
   </p>
   <p>
-    ⚙️ Technical Skills: React.js | Next.js | Advanced JavaScript | TailwindCSS | Jest.js | Angular | HTML | Content Management System(StoryBlok) | CSS | Node.js | Express | Mongoose | and other AI tools
+    ⚙️ Technical Skills: React.js | Next.js | JavaScript | TypeScript | Tailwind CSS | Jest.js | Angular | Content Management System(Story Blok) | Node.js | Express | Mongoose | AI tools
   </p>
 
 </body>
